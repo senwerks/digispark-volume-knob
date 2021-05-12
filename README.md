@@ -22,7 +22,7 @@ Mock the parts up inside the chassis to get an idea for wire lengths, then solde
 - Encoder switch pin 1 to Digispark pin 1
 - Encoder switch pin 2 to Digispark 5V
 
-![Digispark Volume Knob wiring](https://github.com/senwerks/digispark-volume-knob/blob/master/Meta/DigisparkVolumeKnob-Wiring.jpg)
+![Digispark Volume Knob wiring](https://raw.githubusercontent.com/senwerks/digispark-volume-knob/main/Meta/DigisparkVolumeKnob-Wiring.jpg)
 
 The code to load onto the Digispark is just the Adafruit ["Trinket USB Volume Knob" code](https://learn.adafruit.com/trinket-usb-volume-knob/add-a-mute-button), as their Trinket uses the same Attiny85 chip as the Digispark so they're 100% compatible. If you know what you're doing, you can copy/paste the code from my repository (don't forget to add the "TrinketHidCombo.h" library before compiling) or if you need more details, follow [their tutorial here](https://learn.adafruit.com/trinket-usb-volume-knob/code) and make sure you use the extra code from the "Add a Mute Button" page if you got an encoder with clicky switch.
 
