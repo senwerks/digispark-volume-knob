@@ -40,6 +40,6 @@ Depending on your laptop/device you can plug it directly into the USB port, or I
 
 ![Digispark Volume Knob on a laptop](https://raw.githubusercontent.com/senwerks/digispark-volume-knob/main/Meta/DigisparkVolumeKnob-Laptop.jpg)
 
-![Digispark Volume Knob on a PC](https://raw.githubusercontent.com/senwerks/digispark-volume-knob/main/Meta/DigisparkVolumeKnob-Dekstop.jpg)
+![Digispark Volume Knob on a PC](https://raw.githubusercontent.com/senwerks/digispark-volume-knob/main/Meta/DigisparkVolumeKnob-Desktop.jpg)
 
 Contact me via [@senwerks](https://twitter.com/senwerks) if you need any help or have any feedback/improvements!
